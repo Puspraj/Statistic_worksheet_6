@@ -1,0 +1,61 @@
+Question Number, Correct Option, Answer
+
+1> a, Total Variation = Residual Variation – Regression Variation
+
+2> c, binomial
+
+3> a, 2
+
+4> 
+
+5> d, Confidence coefficient
+
+6> b, Increases
+
+7> b, Hypothesis
+
+8> d,All of the mentioned
+
+9> a,0
+
+Subjective Answer:
+
+10>Answer: Bayes' theorem, named after 18th-century British mathematician Thomas Bayes, is
+           is a mathematical formula for determining conditional probability. Conditional 
+           probability is the likelihood of an outcome occurring, based on a previous outcome
+           occurring. If A and B denote two events, P(A|B) denotes the conditional probability
+           of A occurring, given that B occurs. Bayes theorem gives a relation between P(A|B)
+           and P(B|A).
+
+11>Answer: A Z-score describes the position of a raw score in terms of its distance fro the 
+           mean, when measured in standard deviation units. The z-score is positive if the 
+           value lies above the mean, and negative if it lies below the mean.
+
+          Formula of z-score:
+
+           z=(Xi-X')/s
+
+12>Answer: The t-test is any statistical hypothesis test in which the test statistic follows
+           a Student's t-distribution under the null hypothesis. A t-test is the most commonly
+           applied when the test statistic would follow a normal distribution if the value of 
+           a scaling term in the test statistic were known.
+
+          Formula of t-test:
+
+              t=(m-u)/s/(n)sqrt
+
+13>Answer: In statistics, a percentile is a type of quantile which divides the given probability 
+           or sample, into 100 equal-sized intervals; this allows the data to be analyzed in terms
+           of percentages.
+
+14>Answer: Analysis of variance is a collection of statistical models and their associated estimation 
+           procedures used to analyze the differences among group means in a sample. ANOVA was develo
+           -ped by the statistician Ronald Fisher.
+
+           An ANOVA test is a way to find out if survey or experiment results are significant. In other
+           words, they help you to figure out if you need to reject the null hypothesis or accept the 
+           alternate hypothesis.
+
+15>Answer: An ANOVA test they help you to figure out if you need to reject the null hypothesis or accept
+           the alternate hypothesis. Basically, you're testing groups to see if there's a difference
+           between them.
